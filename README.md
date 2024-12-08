@@ -49,32 +49,8 @@ Translates static text and station names into English and Spanish based on user 
 
 # Code Structure
 
-project-root/
-│
-├── data/
-│   ├── air_quality_data.csv        # Raw and processed air quality data
-│   └── holiday_data.csv           # Public holiday data for Mexico City
-│
-├── scripts/
-│   ├── data_collection/
-│   │   └── generate_holiday_data.py  # Script for generating holiday CSV data
-│   ├── data_preprocessing/
-│   │   └── preprocess_air_quality.py # Preprocessing script for air quality data
-│   ├── deployment/
-│   │   └── create_dashboard.py      # Streamlit dashboard creation script
-│   └── utils/
-│       └── helper_functions.py      # Utility functions for data handling
-│
-├── app/
-│   └── main_landing_page_custom.py   # Streamlit app code for AQI visualization
-│
-├── assets/
-│   └── images/
-│       └── logo.png                 # Project logo or relevant images
-│
-├── requirements.txt                 # List of Python dependencies
-├── README.md                        # Project documentation
-└── .gitignore                       # Git ignore file to exclude unnecessary files
+<img width="662" alt="image" src="https://github.com/user-attachments/assets/747cd34e-eec5-400a-b051-5d543a6c26a1">
+
 
 
 # My Contributions to this Omdenna Project :
