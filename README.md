@@ -4,6 +4,8 @@ This project is part of omdena Local chapter named "Air Quality Prediction and P
 # Challenge Background :
 Mexico City, one of the world's largest metropolitan areas, has long struggled with air pollution due to its geography, high population density, and industrial activities. The city's air quality significantly impacts the health and quality of life of its over 21 million residents.
 
+![6_x2a7tZWSlrcLgZ7ODFR22lPmHDbTw6fcv7kV0TobQ](https://github.com/user-attachments/assets/4764946f-386f-4a82-8d74-ba290975435d)
+
 # The Problem Statement:
 Despite improvements in recent years, Mexico City still experiences frequent poor air quality episodes. Current systems provide general air quality information but lack personalized recommendations, especially for vulnerable populations.
 
